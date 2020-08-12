@@ -15,6 +15,9 @@
   - ReactJS👍, Angular👍, NextJS👍, Flutter
   - HTML5, CSS, SCSS, styled-components👍
   
+- 성질머리
+  - 코드컨벤션 중시, 협업 중시, 혼자만 아는 코드 극혐
+  
 - 👉🏻 yangtopia@gmail.com 👈🏻
 - https://www.notion.so/a98782979fb4401cb5d529905c6adcb9
   
