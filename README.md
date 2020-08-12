@@ -16,6 +16,7 @@
   - HTML5, CSS, SCSS, styled-components👍
   
 - 👉🏻 yangtopia@gmail.com 👈🏻
+- https://www.notion.so/a98782979fb4401cb5d529905c6adcb9
   
 
 <!--
