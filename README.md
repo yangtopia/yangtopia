@@ -8,7 +8,8 @@
 
 - 🖥  5년차 Frontend Developer
 
-- 현재 NEXIVIL 소속: https://v.nexivil.com 👈🏻  이거 만드는 중
+- 직전 NEXIVIL 소속: https://v.nexivil.com 👈🏻  이거 다 만들었고
+- 이제는 다시 BBROS 소속: https://ddocdoc.com
 
 - 할줄 아는거
   - Javascript, Typescript👍, JAVA, Dart
