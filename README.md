@@ -8,7 +8,7 @@
 
 - 🖥  6년차 Frontend Developer
 
-- ~~직전 NEXIVIL 소속: https://v.nexivil.com 👈🏻  이거 다 만들었고 (근데 없어졌네)
+- ~~직전 NEXIVIL 소속: https://v.nexivil.com 👈🏻  이거 다 만들었고 (근데 없어졌네)~~
 - 이제는 다시 BBROS 소속: https://ddocdoc.com
 
 - 할줄 아는거
