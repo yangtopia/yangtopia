@@ -20,7 +20,7 @@
   - typescript 덕후
   
 - 👉🏻 yangtopia@gmail.com 👈🏻
-- https://www.notion.so/a98782979fb4401cb5d529905c6adcb9
+<!-- - https://www.notion.so/a98782979fb4401cb5d529905c6adcb9 -->
   
 
 <!--
