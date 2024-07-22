@@ -6,7 +6,7 @@
 
 - 👨‍👩‍👧‍👦  두아이 아빠, 한 여자의 남편
 
-- 🖥  7년차 Frontend Developer
+- 🖥  8년차 Frontend Developer
 
 - BBROS 소속: https://ddocdoc.com
 
