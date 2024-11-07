@@ -11,9 +11,9 @@
 - BBROS 소속: https://ddocdoc.com
 
 - 할줄 아는거
-  - Javascript, Typescript👍, JAVA, Dart
-  - ReactJS👍, Angular👍, NextJS👍, Flutter
-  - HTML5, CSS, SCSS, styled-components👍
+  - Javascript, Typescript👍, JAVA
+  - ReactJS👍, Angular👍, NextJS👍, Vite👍
+  - HTML5, CSS, SCSS, styled-components👍, Tailwindcss
   
 - 특징
   - 코드컨벤션 중시, 협업 중시, 혼자만 아는 코드 극혐
